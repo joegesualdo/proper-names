@@ -17,7 +17,6 @@ ProperNames.getNames(function(names){
 
 ## API
 ### .getNames(callback)
-``
 ```javascript
 var ProperNames= require('proper-names')
 

@@ -1,6 +1,6 @@
 {
   "name": "proper-names",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "List of proper names",
   "main": "index.js",
   "scripts": {
