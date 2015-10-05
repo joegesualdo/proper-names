@@ -16,7 +16,8 @@ ProperNames.getNames(function(names){
 ```
 
 ## API
-### .getNames(callback)
+### `getNames(callback)`
+
 ```javascript
 var ProperNames= require('proper-names')
 
@@ -24,3 +25,6 @@ ProperNames.getNames(function(names){
   console.log(names)
 })
 ```
+
+## License
+MIT © Joe Gesualdo
